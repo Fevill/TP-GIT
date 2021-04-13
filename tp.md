@@ -10,3 +10,14 @@ Mes attentes sur la formation est de voir les déferrents rituels possibles dans
 
 Etre capable d'automatisé et de déployer
 l'ensemble du system ( OpenStack, Kubernetes, graphana)
+
+## Deuxieme Bloc
+
+### Les actions affectuer pour atteindre l'objectif
+
+- [x] Suivre la formation
+- [ ] Etre impliqué à 300 %
+
+### Les ressources
+
+- Google est mon ami
